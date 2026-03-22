@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/simar/CLionProjects/Lab 5 (CS 1 Fall 2024)/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/Lab_5__CS_1_Fall_2024_.dir/main.cpp.o -c \"/Users/simar/CLionProjects/Lab 5 (CS 1 Fall 2024)/main.cpp\"",
+  "file": "/Users/simar/CLionProjects/Lab 5 (CS 1 Fall 2024)/main.cpp",
+  "output": "CMakeFiles/Lab_5__CS_1_Fall_2024_.dir/main.cpp.o"
+}
+]

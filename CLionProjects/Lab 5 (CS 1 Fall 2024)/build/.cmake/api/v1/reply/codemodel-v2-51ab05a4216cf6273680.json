@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab_5__CS_1_Fall_2024_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_5__CS_1_Fall_2024_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_5__CS_1_Fall_2024_-Debug-3d2e2b68fbe90bc15ebf.json",
+					"name" : "Lab_5__CS_1_Fall_2024_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/simar/CLionProjects/Lab 5 (CS 1 Fall 2024)/build",
+		"source" : "/Users/simar/CLionProjects/Lab 5 (CS 1 Fall 2024)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,3 @@
+/Users/simar/CLionProjects/Lab 6 (CS1 Fall 2024)/cmake-build-debug/CMakeFiles/Lab_6__CS1_Fall_2024_.dir
+/Users/simar/CLionProjects/Lab 6 (CS1 Fall 2024)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/simar/CLionProjects/Lab 6 (CS1 Fall 2024)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
